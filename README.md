@@ -1,5 +1,5 @@
 # Traffic-Datalogger
-Datalogger for trafic control programmed in C for DSPIC 33FJ256GP710  Microchip microcontroller. 
+Datalogger for traffic control programmed in C for DSPIC 33FJ256GP710  Microchip microcontroller. 
 
 This is the final project from "Computer Architecture" course in National University of Patagonia San Juan Bosco.
 
